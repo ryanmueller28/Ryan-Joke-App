@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Joke App</string>
+    <string name="goPrompt">Go</string>
+    <string-array name="Joke">
+        <item>Knock-Knock</item>
+        <item>Bad Dad Joke</item>
+        <item>Riddle</item>
+    </string-array>
+
+</resources>
